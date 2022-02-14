@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-12-13T00:48:40 IST" name="Default suite" finished-at="2021-12-13T00:49:27 IST" duration-ms="46781">
+    <groups>
+    </groups>
+    <test started-at="2021-12-13T00:48:40 IST" name="Default test" finished-at="2021-12-13T00:49:27 IST" duration-ms="46781">
+      <class name="TestPages.AddCustTest">
+        <test-method is-config="true" signature="Setup()[pri:0, instance:TestPages.AddCustTest@5403f35f]" started-at="2021-12-13T00:48:40 IST" name="Setup" finished-at="2021-12-13T00:48:50 IST" duration-ms="10434" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method signature="ValidateLogin()[pri:1, instance:TestPages.AddCustTest@5403f35f]" started-at="2021-12-13T00:48:50 IST" name="ValidateLogin" finished-at="2021-12-13T00:49:05 IST" duration-ms="15130" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidateLogin -->
+        <test-method signature="AddcustDetails()[pri:2, instance:TestPages.AddCustTest@5403f35f]" started-at="2021-12-13T00:49:05 IST" name="AddcustDetails" finished-at="2021-12-13T00:49:27 IST" duration-ms="21136" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddcustDetails -->
+      </class> <!-- TestPages.AddCustTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
