@@ -19,7 +19,7 @@ public class Login extends BaseTest {
 	
 	
 	@FindBy(xpath="//input[@name='username1']")
-	WebElement textuser;
+	WebElement textusername;
 	
 	
 	@FindBy(xpath="//input[@name='password']")
